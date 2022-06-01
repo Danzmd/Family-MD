@@ -27,7 +27,7 @@ const defaultMenu = {
   body: '├ %cmd %islimit %isPremium',
   footer: '└────\n',
   after: `
-*%npmname@^%version*
+*NdaaBotz@^%version*
 ${'```%npmdesc```'}
 `,
 }
