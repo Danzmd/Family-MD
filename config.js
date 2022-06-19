@@ -16,6 +16,7 @@ global.APIs = { // API Prefix
   hardianto: 'https://hardianto.xyz',
   lol: 'https://api.lolhuman.xyz',
   adicug: 'https://api.adiofficial.xyz'
+  MansKey: 'https://ndaabot-api.herokuapp.com/'
 }
 global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey'
@@ -29,6 +30,7 @@ global.APIKeys = { // APIKey Here
   'https://hardianto.xyz': 'hardianto',
   'https://leyscoders-api.herokuapp.com': 'apikeylu',
   'https://api.adiofficial.xyz': 'apikey lu'
+  'https://ndaabot-api.herokuapp.com/: 'MansKey'
 }
 
 //global.wm = '𝑴𝒚𝑩𝒐𝒕-𝑴𝒖𝒍𝒕𝒊 𝑫𝒆𝒗𝒊𝒄𝒆 𝑩𝒚 𝑭𝒐𝒌𝒖𝒔𝑰𝑫'
