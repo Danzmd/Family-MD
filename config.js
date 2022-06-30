@@ -1,6 +1,6 @@
 let fs = require('fs')
-global.owner = JSON.parse(fs.readFileSync('./src/owner.json')) // Put your number to folder /src/owner.json
-global.mods = JSON.parse(fs.readFileSync('./src/moderator.json')) // Want some help?
+global.owner = JSON.parse(fs.readFileSync('6289523573658')) // Put your number to folder /src/owner.json
+global.mods = JSON.parse(fs.readFileSync('6289523573658')) // Want some help?
 
 global.APIs = { // API Prefix
   // name: 'https://website'
@@ -58,7 +58,7 @@ global.baileys = require('@adiwajshing/baileys')
 global.fs = require('fs')
 global.data = JSON.parse(fs.readFileSync('./data.json'))
 global.fetch = require('node-fetch')
-global.bochil = require('@bochilteam/scraper')
+global.bochil = require('@Danzteam/scraper')
 
 global.rpg = {
   emoticon(string) {
